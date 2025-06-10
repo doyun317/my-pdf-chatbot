@@ -1,0 +1,11 @@
+Collecting faiss-cpu
+  Downloading faiss_cpu-1.11.0-cp310-cp310-win_amd64.whl (15.0 MB)
+     --------------------------------------- 15.0/15.0 MB 54.7 MB/s eta 0:00:00
+Collecting packaging
+  Downloading packaging-25.0-py3-none-any.whl (66 kB)
+     ---------------------------------------- 66.5/66.5 kB ? eta 0:00:00
+Collecting numpy<3.0,>=1.25.0
+  Downloading numpy-2.2.6-cp310-cp310-win_amd64.whl (12.9 MB)
+     --------------------------------------- 12.9/12.9 MB 54.4 MB/s eta 0:00:00
+Installing collected packages: packaging, numpy, faiss-cpu
+Successfully installed faiss-cpu-1.11.0 numpy-2.2.6 packaging-25.0
