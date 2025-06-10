@@ -49,7 +49,7 @@ streamlit run app.py
 
 ## 데모
 
-![Example 1](img/example-1.jpg)
+![Example 1](img/example-1.JPG)
 ![Example 2](img/example-2.gif)
 
 ## 사용 방법
