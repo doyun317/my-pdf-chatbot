@@ -158,9 +158,6 @@ streamlit run app.py
 └── embedding_cache/   # Cache directory for embeddings
 ```
 
-## License
-This project is licensed under the MIT License.
-
 ## Author
-[Your Name]
+[doyun317](https://github.com/doyun317)
 
