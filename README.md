@@ -1,6 +1,6 @@
 # AI-Powered Document Q&A
 
-![Chatbot Interface](chatbot.png)
+![Chatbot Interface](img/chatbot.png)
 
 이 프로젝트는 PDF 문서에 대한 질의응답을 수행하는 AI 기반 챗봇입니다. LangChain, Ollama, FAISS, BM25, Cross-Encoder를 활용하여 하이브리드 검색 방식을 구현했습니다.
 
@@ -49,8 +49,8 @@ streamlit run app.py
 
 ## 데모
 
-![Example 1](example-1.jpg)
-![Example 2](example-2.gif)
+![Example 1](img/example-1.jpg)
+![Example 2](img/example-2.gif)
 
 ## 사용 방법
 
